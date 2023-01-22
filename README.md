@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LenaFelica
 - 👀 I’m interested in  Frontend, Web and Python
-- 🌱 I’m currently learning  in Яндекс.Практикум
+- 🌱 I’m currently learning Frontend-developer in Яndex.Practice
 - 💞️ I’m looking to collaborate on frontend...
 - 📫 How to reach me leonatdg@mail.ru...
 
