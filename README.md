@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Frontend, Web and Python
 - 🌱 
 - 💞️ I’m looking to collaborate on frontend...
-- 📫 How to reach me leonatdg@mail.ru...
+- 📫 How to reach me @lenafelica
 
 <!---
 LenaFelica/LenaFelica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
